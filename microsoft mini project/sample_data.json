@@ -1,0 +1,32 @@
+{
+  "title": "Annual Developer Certification 2026",
+  "recipients": [
+    {
+      "recipient_name": "Alice Johnson",
+      "recipient_email": "alice.johnson@example.com",
+      "course_name": "Advanced Python & Microservices",
+      "issue_date": "2026-10-08",
+      "issuer_name": "Tech Education Council"
+    },
+    {
+      "recipient_name": "Bob Smith",
+      "recipient_email": "bob.smith@example.com",
+      "course_name": "Advanced Python & Microservices",
+      "issue_date": "2026-10-08",
+      "issuer_name": "Tech Education Council"
+    },
+    {
+      "recipient_name": "Carol Williams",
+      "recipient_email": "carol.williams@example.com",
+      "course_name": "Advanced Python & Microservices",
+      "issue_date": "2026-10-08",
+      "issuer_name": "Tech Education Council"
+    },
+    {
+      "recipient_name": "Invalid Recipient Test",
+      "recipient_email": "bad-email-address",
+      "course_name": "Advanced Python & Microservices",
+      "issue_date": "2026-10-08"
+    }
+  ]
+}
